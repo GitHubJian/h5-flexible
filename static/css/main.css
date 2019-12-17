@@ -1,0 +1,32 @@
+[data-dpr="1"] .title {
+  font-size: 15px;
+}
+
+[data-dpr="2"] .title {
+  font-size: 30px;
+}
+
+[data-dpr="3"] .title {
+  font-size: 45px;
+}
+
+.no-sign {
+  background: url(/static/images/nosign.png) no-repeat;
+  background-size: 0.933rem auto;
+}
+
+.del {
+  background: url(/static/images/prompt.png) no-repeat;
+  background-size: 0.933rem auto;
+}
+[data-dpr="1"] .title2 {
+  font-size: 10px;
+}
+
+[data-dpr="2"] .title2 {
+  font-size: 20px;
+}
+
+[data-dpr="3"] .title2 {
+  font-size: 30px;
+}
